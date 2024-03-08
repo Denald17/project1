@@ -1,0 +1,14 @@
+{
+    "name": "jobtarget-bootcamp",
+    "version": "1.0.0",
+    "description": "JobTarget Bootcamp",
+    "main": "script.js",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "author": "Japeth Lahaylahay",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
